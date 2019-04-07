@@ -12,6 +12,8 @@ Hardware components:
  - HC-SR04 ultrasonic sensor
  - 9V battery
 
+![schematic] (TrashGuard_Wiring_Schematic_PNG.png)
+
 Third party software libraries:
  - https://github.com/Martinsos/arduino-lib-hc-sr04
  - https://github.com/matthijskooijman/arduino-lmic
