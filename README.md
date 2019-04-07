@@ -13,6 +13,7 @@ Hardware components:
  - 9V battery
 
 ![schematic] (TrashGuard_Wiring_Schematic_PNG.png)
+Format: ![schematic](url)
 
 Third party software libraries:
  - https://github.com/Martinsos/arduino-lib-hc-sr04
