@@ -12,7 +12,6 @@ Hardware components:
  - HC-SR04 ultrasonic sensor
  - 9V battery
 
-![schematic] (https://github.com/nezezime/WasteSurveillance/blob/master/TrashGuard_Wiring_Schematic_PNG.png)
 Format: ![schematic](https://github.com/nezezime/WasteSurveillance/blob/master/TrashGuard_Wiring_Schematic_PNG.png)
 
 Third party software libraries:
