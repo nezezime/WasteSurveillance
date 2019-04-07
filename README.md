@@ -12,7 +12,7 @@ Hardware components:
  - HC-SR04 ultrasonic sensor
  - 9V battery
 
-Format: ![schematic](https://github.com/nezezime/WasteSurveillance/blob/master/TrashGuard_Wiring_Schematic_PNG.png)
+Schematic: ![schematic](https://github.com/nezezime/WasteSurveillance/blob/master/TrashGuard_Wiring_Schematic_PNG.png)
 
 Third party software libraries:
  - https://github.com/Martinsos/arduino-lib-hc-sr04
